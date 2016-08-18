@@ -19,6 +19,6 @@ Thanks to all contributors to Emacs out there, you guys rocks!
 
 Clone the repository:
 
-`git clone https://github.com/tang-junjie/.emacs.d ~/.emacs.d`
+`git clone https://github.com/tang-junjie/dot-emacs ~/.emacs.d`
 
 Live in Emacs!
